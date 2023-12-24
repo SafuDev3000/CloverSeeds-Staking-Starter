@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Menu",
+    "\\src\\components\\Staking",
+    "\\src\\components\\Tabs",
+    "\\src\\functions",
+    "\\src\\functions\\Timer",
+    "\\src\\static",
+    "\\src\\static\\images"
+  ],
+  "SelectedNode": "\\src\\components\\Tabs\\TabButtons.js",
+  "PreviewInSolutionExplorer": false
+}
